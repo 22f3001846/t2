@@ -1,0 +1,11 @@
+{
+  "prompt": "Wide-angle editorial illustration with cinematic lighting. A long rustic wooden banquet table stretches across the entire frame. On the far left, a dense crowd representing ninety-nine people is tightly packed together, sharing a single small plate of food, their faces tired and strained, bodies leaning inward in scarcity. On the far right, one well-dressed individual sits alone, surrounded by an abundant feast that covers half the table, relaxed and detached. The left side is in deep shadow with cold desaturated blue-grey tones, while the right side is bathed in warm golden light with rich amber hues. The composition emphasizes extreme imbalance through contrast in space, light, and food quantity. No text, no labels, no numbers visible.",
+  
+  "model": "dall-e-3",
+  
+  "dataset_name": "Global Wealth Inequality Dataset",
+  
+  "dataset_url": "https://ourworldindata.org/income-inequality",
+  
+  "insight": "A small fraction of the population controls a disproportionately large share of resources, while the majority struggles with limited access. The visual metaphor highlights extreme inequality through contrast in abundance, space, and light."
+}
