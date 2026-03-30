@@ -1,0 +1,24 @@
+{
+  "style": "wide-angle editorial illustration, cinematic lighting",
+  "scene": "a long wooden banquet table stretching across the image",
+  "elements": {
+    "left_side": {
+      "description": "ninety-nine people crowded together sharing one small plate of food",
+      "appearance": "faces drawn and tired",
+      "lighting": "in shadow",
+      "color_tone": "cold, desaturated blue-grey"
+    },
+    "right_side": {
+      "description": "one well-dressed person sitting alone surrounded by an overflowing feast covering half the table",
+      "lighting": "bathed in warm golden light",
+      "color_tone": "warm amber"
+    }
+  },
+  "mood": "moral weight, imbalance made visceral",
+  "composition": "wide-angle perspective with strong left-right contrast, table spanning entire frame",
+  "constraints": [
+    "no text",
+    "no labels",
+    "no numbers visible"
+  ]
+}
