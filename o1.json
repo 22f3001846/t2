@@ -1,0 +1,11 @@
+{
+  "concept": "Conflicting local vs global trends in complex systems",
+  
+  "paradox": "Each individual path ascends upward, yet the overall mountain slopes downward in the same direction",
+  
+  "visual_logic": "Local slopes of paths consistently rise left to right, while the global terrain gradient descends left to right, creating simultaneous opposing directional cues",
+  
+  "prompt": "Cinematic wide-angle landscape photograph at golden hour, depicting a hillside covered in winding footpaths. Each path, seen close up, clearly climbs upward from left to right, with worn dirt trails rising consistently. Yet the overall mountain slopes downward from left to right when viewed as a whole. Both the local upward slopes and the global downward slope are simultaneously visible and unambiguous in the same frame. The viewer’s eye is pulled upward by the paths and downward by the mountain at the same time. Mood: quiet wrongness, spatial impossibility that feels real. Color palette: warm amber light, deep green vegetation, hazy blue distance. Photorealistic. No text, no charts, no arrows, no annotations.",
+  
+  "model": "dall-e-3"
+}
