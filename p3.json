@@ -7,9 +7,4 @@
   
   "model": "dall-e-3",
   
-  "dataset_name": "Global Wealth Inequality Dataset",
-  
-  "dataset_url": "https://ourworldindata.org/income-inequality",
-  
-  "insight": "A small fraction of the population controls a disproportionately large share of resources, while the majority struggles with limited access. The contrast in light, space, and food visually encodes this imbalance."
 }
